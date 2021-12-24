@@ -35,6 +35,7 @@
 + [MD5](https://github.com/pvorb/node-md5)，生成md5值
 + [SparkMD5](https://github.com/satazor/js-spark-md5)，获取文件md5值
 + [lunar-javascript](https://github.com/6tail/lunar-javascript)，阳历，阴历，节气，法定节假日等
++ [localForage](https://github.com/localForage/localForage)，离线存储
 
 ## css
 + [animate](https://github.com/animate-css/animate.css)，css动画
