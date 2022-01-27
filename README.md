@@ -13,6 +13,7 @@
 + [UAParser](https://github.com/faisalman/ua-parser-js)，获取浏览器及系统信息
 + [html2canvas](https://github.com/niklasvh/html2canvas)，html页面转canvas
 + [jspdf](https://github.com/parallax/jsPDF)，生成pdf
++ [js-xlsx](https://github.com/SheetJS/sheetjs)，解析/生成excel文件
 + [moment](https://github.com/moment/moment)，日期处理
 + [docsify](https://github.com/docsifyjs/docsify)，快速生成文档网站
 + [file-saver](https://github.com/eligrey/FileSaver.js)，下载保存文件
@@ -36,6 +37,9 @@
 + [SparkMD5](https://github.com/satazor/js-spark-md5)，获取文件md5值
 + [lunar-javascript](https://github.com/6tail/lunar-javascript)，阳历，阴历，节气，法定节假日等
 + [localForage](https://github.com/localForage/localForage)，离线存储
++ [Sortable](https://github.com/SortableJS/Sortable)，拖拽库
++ [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS)，键/组合键设置绑定
++ [Grade](https://github.com/benhowdle89/grade)，基于图像中的前2种主要颜色生成互补渐变背景
 
 ## css
 + [animate](https://github.com/animate-css/animate.css)，css动画
@@ -47,6 +51,8 @@
 + [vant](https://github.com/youzan/vant)，移动端ui框架
 + [vue-jsonp](https://github.com/LancerComet/vue-jsonp)，JSONP请求
 + [vue-lazyload](https://github.com/hilongjw/vue-lazyload)，图片懒加载
++ [u米-ui](https://github.com/u-leo/umy-ui)，vue2虚拟化表格，解决显示大量数据表格卡顿问题
++ [Surely Vue Table](https://github.com/surely-vue/table)，vue3虚拟化表格，解决显示大量数据表格卡顿问题，是商业化组件
 
 ## nodejs
 + [koa](https://github.com/koajs/koa)，后端服务
@@ -60,3 +66,6 @@
 + [oneinstack](https://github.com/oneinstack/oneinstack)，交互式安装，[文档](https://oneinstack.com/)
 + [icomoon](https://icomoon.io/app/#/select)，字体图标
 + [jquery](https://jquery.cuishifeng.cn/index.html)，jquery中文文档
++ [nvm](https://github.com/coreybutler/nvm-windows)，node版本管理工具
++ [superagent](https://github.com/visionmedia/superagent)，基于ajax的优化，用于获取远程网址html的内容
++ [cheerio](https://github.com/cheeriojs/cheerio)，通过jquery语法获取节点内容
