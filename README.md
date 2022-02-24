@@ -69,3 +69,4 @@
 + [nvm](https://github.com/coreybutler/nvm-windows)，node版本管理工具
 + [superagent](https://github.com/visionmedia/superagent)，基于ajax的优化，用于获取远程网址html的内容
 + [cheerio](https://github.com/cheeriojs/cheerio)，通过jquery语法获取节点内容
++ [Puppeteer](https://github.com/puppeteer/puppeteer)，谷歌无头浏览器，模拟用户操作页面
