@@ -71,3 +71,4 @@
 + [cheerio](https://github.com/cheeriojs/cheerio)，通过jquery语法获取节点内容
 + [Puppeteer](https://github.com/puppeteer/puppeteer)，谷歌无头浏览器，模拟用户操作页面
 + [Jimp](https://github.com/oliver-moran/jimp)，图片处理（生成，裁剪，压缩，增加滤镜，文字等）
++ [stringify](https://github.com/lydell/json-stringify-pretty-compact)，格式化打印json
