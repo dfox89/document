@@ -59,6 +59,8 @@
 + [Sequelize](https://github.com/sequelize/sequelize)，数据库ORM
 + [svg-captcha](https://github.com/produck/svg-captcha)，生成图形验证码
 + [pm2](https://github.com/Unitech/pm2)，Node.js应用程序的生产运行的进程管理器
++ [dotenv](https://github.com/motdotla/dotenv)，加载环境配置文件
++ [cross-env](https://github.com/kentcdodds/cross-env)，可跨平台设置环境变量
 
 ## 其它
 + [electron-vue](https://github.com/SimulatedGREG/electron-vue)，跨平台桌面程序
