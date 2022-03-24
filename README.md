@@ -40,6 +40,7 @@
 + [Sortable](https://github.com/SortableJS/Sortable)，拖拽库
 + [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS)，键/组合键设置绑定
 + [Grade](https://github.com/benhowdle89/grade)，基于图像中的前2种主要颜色生成互补渐变背景
++ [Pace](https://www.npmjs.com/package/pace-js)，页面加载进度条
 
 ## css
 + [animate](https://github.com/animate-css/animate.css)，css动画
