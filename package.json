@@ -1,0 +1,13 @@
+{
+  "name": "document",
+  "version": "1.0.0",
+  "private": true,
+  "author": "dfox <1253980580@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "doc": "./node_modules/.bin/docsify serve docs"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
