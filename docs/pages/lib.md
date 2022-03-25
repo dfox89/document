@@ -73,5 +73,5 @@
 + [Jimp](https://github.com/oliver-moran/jimp)，图片处理（生成，裁剪，压缩，增加滤镜，文字等）
 + [stringify](https://github.com/lydell/json-stringify-pretty-compact)，格式化打印json
 + [tributejs](https://github.com/zurb/tribute)，输入框实现@
-+ [airbnb](http://airbnb.io/lottie/#/)，动画，AE及Bodymovin生成复杂动画的json，使用lottie-web包实现动画
++ [lottie](http://airbnb.io/lottie/#/)，动画，AE及Bodymovin生成复杂动画的json，使用lottie-web包实现动画
 + [lottie-web](https://www.npmjs.com/package/lottie-web)，airbnb-lottie的npm包

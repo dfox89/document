@@ -1,5 +1,5 @@
 ## git
-```git
+```shell
 # 显示所有远程仓库
 git remote -v
 
@@ -41,7 +41,7 @@ git rebase --abort
 ```
 
 ## pm2
-```bash
+```shell
 # 列出PM2启动的所有的应用程序
 pm2 list
 
@@ -59,7 +59,7 @@ pm2 delete all
 ```
 
 ## vue-cli
-```bash
+```shell
 # 安装
 npm install -g @vue/cli
 # 安装桥接工具，使得可以使用旧版的vue init
@@ -75,7 +75,7 @@ vue init webpack your-project
 ```
 
 ## ssh
-```bash
+```shell
 # 生成密钥
 ssh-keygen -t rsa -b 4096 -C "youremail@example.com"
 ```
