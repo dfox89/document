@@ -3,6 +3,12 @@
 # 显示所有远程仓库
 git remote -v
 
+# 删除本地分支
+git branch -d dev
+
+# 删除远程分支
+git push origin --delete dev
+
 # 查看远程仓库与本地仓库的关系
 git remote show origin
 
