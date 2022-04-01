@@ -13,10 +13,6 @@ git remote prune origin
 git checkout master
 git merge dev
 
-# 合并分支，非快速合并，新建一个提交节点
-git checkout master
-git merge --no-ff dev
-
 # squash合并分支，新建一个提交节点，但不会保留对合入分支的引用
 git checkout master
 git merge --squash dev

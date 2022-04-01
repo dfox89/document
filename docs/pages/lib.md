@@ -38,10 +38,13 @@
 + [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS)，键/组合键设置绑定
 + [Grade](https://github.com/benhowdle89/grade)，基于图像中的前2种主要颜色生成互补渐变背景
 + [Pace](https://www.npmjs.com/package/pace-js)，页面加载进度条
++ [shepherd.js](https://github.com/shipshapecode/shepherd)，引导您的用户浏览您的应用
 
 ## css
 + [animate.css](https://github.com/animate-css/animate.css)，css动画
 + [normalize](https://github.com/necolas/normalize.css)，css样式重置
++ [reseter](https://github.com/resetercss/reseter.css)，css样式重置，不会删除所有浏览器样式，而是重新定义有用的样式
++ [charts](https://github.com/ChartsCSS/charts.css)，纯css图表
 
 ## vue
 + [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)，流畅展示巨量的数据，只渲染展示给用户的那部分

@@ -2,3 +2,4 @@
 + [Can I use](https://caniuse.com/)，检测某特性在浏览器中的兼容性
 + [bootcdn](https://www.bootcdn.cn/)，公共cdn
 + [iconfont](https://www.iconfont.cn/)，字体图标
++ [lottiefile](https://lottiefiles.com/)，洛蒂json图
