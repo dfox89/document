@@ -43,6 +43,7 @@
 + [hls.js](https://www.npmjs.com/package/hls.js)，播放m3u8等视频地址
 + [tsparticles](https://www.npmjs.com/package/tsparticles)，粒子特效
 + [mapbox](https://www.npmjs.com/package/mapbox-gl)，世界地图
++ [page-flip](https://www.npmjs.com/package/page-flip)，书本翻页
 
 ## css
 + [animate.css](https://github.com/animate-css/animate.css)，css动画
