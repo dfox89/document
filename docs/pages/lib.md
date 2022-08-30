@@ -42,6 +42,7 @@
 + [photo-sphere-viewer](https://www.npmjs.com/package/photo-sphere-viewer)，全景图
 + [hls.js](https://www.npmjs.com/package/hls.js)，播放m3u8等视频地址
 + [tsparticles](https://www.npmjs.com/package/tsparticles)，粒子特效
++ [mapbox](https://www.npmjs.com/package/mapbox-gl)，世界地图
 
 ## css
 + [animate.css](https://github.com/animate-css/animate.css)，css动画
