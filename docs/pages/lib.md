@@ -44,6 +44,7 @@
 + [tsparticles](https://www.npmjs.com/package/tsparticles)，粒子特效
 + [mapbox](https://www.npmjs.com/package/mapbox-gl)，世界地图
 + [page-flip](https://www.npmjs.com/package/page-flip)，书本翻页
++ [eruda](https://github.com/liriliri/eruda)，手机前端页面调试
 
 ## css
 + [animate.css](https://github.com/animate-css/animate.css)，css动画
