@@ -10,7 +10,7 @@
 + [UAParser](https://github.com/faisalman/ua-parser-js)，获取浏览器及系统信息
 + [html2canvas](https://github.com/niklasvh/html2canvas)，html页面转canvas
 + [jspdf](https://github.com/parallax/jsPDF)，生成pdf
-+ [js-xlsx](https://github.com/SheetJS/sheetjs)，解析/生成excel文件
++ [js-xlsx](https://www.npmjs.com/package/xlsx)，解析/生成excel文件
 + [moment](https://github.com/moment/moment)，日期处理
 + [docsify](https://github.com/docsifyjs/docsify)，快速生成文档网站
 + [file-saver](https://github.com/eligrey/FileSaver.js)，下载保存文件
