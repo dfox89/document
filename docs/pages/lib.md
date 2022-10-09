@@ -69,6 +69,9 @@
 + [pm2](https://github.com/Unitech/pm2)，Node.js应用程序的生产运行的进程管理器
 + [dotenv](https://github.com/motdotla/dotenv)，加载环境配置文件
 + [cross-env](https://github.com/kentcdodds/cross-env)，可跨平台设置环境变量
++ [commander](https://www.npmjs.com/package/commander)，交互式命令行
++ [prompts](https://www.npmjs.com/package/prompts)，交互式输入，是否选择
++ [inquirer](https://www.npmjs.com/package/inquirer)，交互式命令行
 
 ## 其它
 + [electron-vue](https://github.com/SimulatedGREG/electron-vue)，跨平台桌面程序
