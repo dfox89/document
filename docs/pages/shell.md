@@ -3,6 +3,9 @@
 # 显示所有远程仓库
 git remote -v
 
+# 修改本地仓库关联的远程仓库地址
+git remote set-url origin 新仓库地址
+
 # 删除本地分支
 git branch -d dev
 
