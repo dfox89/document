@@ -95,3 +95,11 @@ ssh-keygen -t rsa -b 4096 -C "youremail@example.com"
 + -N：提供一个新密语；
 + -P：提供（旧）密语；
 + -q：静默模式；
+
+## npm
+```shell
+# 列出全局安装的包
+npm list -g --depth 0
+# npm配置
+npm config list -l
+```
