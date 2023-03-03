@@ -10,8 +10,9 @@
 + [UAParser](https://github.com/faisalman/ua-parser-js)，获取浏览器及系统信息
 + [html2canvas](https://github.com/niklasvh/html2canvas)，html页面转canvas
 + [jspdf](https://github.com/parallax/jsPDF)，生成pdf
-+ [js-xlsx](https://www.npmjs.com/package/xlsx)，解析/生成excel文件
++ [xlsx](https://www.npmjs.com/package/xlsx)，js解析/生成excel文件
 + [moment](https://github.com/moment/moment)，日期处理
++ [dayjs](https://www.npmjs.com/package/dayjs)，日期处理，轻量，和moment相同的api及用法
 + [docsify](https://github.com/docsifyjs/docsify)，快速生成文档网站
 + [file-saver](https://github.com/eligrey/FileSaver.js)，下载保存文件
 + [aplayer](https://github.com/DIYgod/APlayer)，音频播放器
@@ -22,9 +23,11 @@
 + [QRCode](https://github.com/davidshimjs/qrcodejs)，生成二维码
 + [Cropper](https://github.com/fengyuanchen/cropperjs)，截图
 + [wangeditor](https://github.com/wangeditor-team/wangEditor)，富文本编辑器
++ [tinymce](https://www.tiny.cloud/)，富文本编辑器
 + [lodash](https://github.com/lodash/lodash)，工具库
 + [axios](https://github.com/axios/axios)，http请求
 + [echarts](https://github.com/apache/echarts)，数据图表
++ [chart.js](https://www.npmjs.com/package/chart.js)，数据图表
 + [F2](https://github.com/antvis/F2)，专注于移动，开箱即用的数据图表
 + [ScrollReveal](https://github.com/jlmakes/scrollreveal)，元素进入/离开视图区域时执行动画
 + [simpleParallax](https://github.com/geosigno/simpleParallax.js)，图片视差滚动
