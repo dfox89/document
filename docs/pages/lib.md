@@ -56,6 +56,7 @@
 + [reseter](https://github.com/resetercss/reseter.css)，css样式重置，不会删除所有浏览器样式，而是重新定义有用的样式
 + [charts](https://github.com/ChartsCSS/charts.css)，纯css图表
 + [csshake](https://github.com/elrumordelaluz/csshake)，抖动库
++ [img2css](https://github.com/javierbyte/img2css)，图片转为css
 
 ## vue
 + [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)，流畅展示巨量的数据，只渲染展示给用户的那部分
