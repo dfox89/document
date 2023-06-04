@@ -120,5 +120,5 @@ firewall-cmd --list-ports
 # --zone 作用域
 # --add-port=8080/tcp 格式为：端口/通讯协议；add表示添加，remove则对应移除
 # --permanent 永久生效，没有此参数重启后失效
-firewall-cmd --zone=public --add-ports=8080/tcp --permanent
+firewall-cmd --zone=public --add-port=8080/tcp --permanent
 ```
