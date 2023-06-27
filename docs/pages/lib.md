@@ -79,6 +79,7 @@
 + [prompts](https://www.npmjs.com/package/prompts)，交互式输入，是否选择
 + [inquirer](https://www.npmjs.com/package/inquirer)，交互式命令行
 + [colors](https://www.npmjs.com/package/colors)，console颜色输出
++ [chalk](https://www.npmjs.com/package/chalk)，终端颜色输出
 
 ## 其它
 + [electron-vue](https://github.com/SimulatedGREG/electron-vue)，跨平台桌面程序

@@ -15,4 +15,4 @@ console.log('\x1b[42;31m SUCCESS \x1b[0m')
 
 ### 其他
 
-或者直接使用[colors](https://www.npmjs.com/package/colors)
+或者直接使用[chalk](https://www.npmjs.com/package/chalk)，[colors](https://www.npmjs.com/package/colors)
