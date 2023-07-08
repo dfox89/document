@@ -1,5 +1,9 @@
 ## git
 ```shell
+# 全局配置用户名邮箱
+git config --global user.name "lsszlw"
+git config --global user.email "1253980580@qq.com"
+
 # 显示所有远程仓库
 git remote -v
 
@@ -100,8 +104,12 @@ ssh-keygen -t rsa -b 4096 -C "youremail@example.com"
 ```shell
 # 列出全局安装的包
 npm list -g --depth 0
+# 查看全局安装目录
+npm config get prefix
 # npm配置
 npm config list -l
+# 安装pnpm
+npm install -g pnpm
 ```
 
 ## firewall-centos
@@ -121,4 +129,23 @@ firewall-cmd --list-ports
 # --add-port=8080/tcp 格式为：端口/通讯协议；add表示添加，remove则对应移除
 # --permanent 永久生效，没有此参数重启后失效
 firewall-cmd --zone=public --add-port=8080/tcp --permanent
+```
+
+## nvm
+> 打开安装目录下的settings.txt，添加以下内容，修改镜像源
+```text
+node_mirror: https://npm.taobao.org/mirrors/node/
+npm_mirror: https://npm.taobao.org/mirrors/npm/
+```
+```shell
+## 查看nvm版本
+nvm -v
+## 列出已安装的版本
+nvm list
+## 切换版本
+nvm use 14.21.3
+## 安装指定大版本号的最新版本
+nvm install 14.21.3
+## 删除指定版本
+nvm unstall 14.21.3
 ```
