@@ -14,3 +14,4 @@
 + [独特工具箱](https://www.dute.org/)，聚合工具站
 + [m3u8视频提取](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html)，m3u8视频提取工具
 + [JShaman](http://www.jshaman.com/)，js混淆加密，分免费及收费
++ [Unicode编码汉字互转工具](https://tool.ip138.com/ascii/)，Unicode编码汉字互转工具
