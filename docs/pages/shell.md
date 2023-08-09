@@ -1,8 +1,8 @@
 ## git
 ```shell
 # 全局配置用户名邮箱
-git config --global user.name "lsszlw"
-git config --global user.email "1253980580@qq.com"
+git config --global user.name "你的名称"
+git config --global user.email "你的邮箱"
 
 # 显示所有远程仓库
 git remote -v
@@ -67,20 +67,24 @@ pm2 stop all
 pm2 delete all
 ```
 
-## vue-cli
+## vue脚手架
+> vue-cli
 ```shell
-# 安装
+# 安装vue-cli
 npm install -g @vue/cli
 # 安装桥接工具，使得可以使用旧版的vue init
 npm install -g @vue/cli-init
-
-# 查看脚手架版本
+# 查看vue-cli脚手架版本
 vue -V
-
 # 创建项目
 vue create your-project
 # 创建vue-cli2项目
 vue init webpack your-project
+```
+> vite
+```shell
+# vite
+npm create vite
 ```
 
 ## ssh

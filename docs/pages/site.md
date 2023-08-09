@@ -16,3 +16,5 @@
 + [JShaman](http://www.jshaman.com/)，js混淆加密，分免费及收费
 + [Unicode编码汉字互转工具](https://tool.ip138.com/ascii/)，Unicode编码汉字互转工具
 + [ping](https://ping.pe/)，ping地址
++ [npm](https://www.npmjs.com/)，npm包
++ [composer](https://packagist.org/)，php composer包
