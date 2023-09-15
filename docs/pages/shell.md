@@ -4,6 +4,9 @@
 git config --global user.name "你的名称"
 git config --global user.email "你的邮箱"
 
+# 查看git配置
+git config --list
+
 # 显示所有远程仓库
 git remote -v
 
