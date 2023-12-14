@@ -97,6 +97,7 @@
 + [tributejs](https://github.com/zurb/tribute)，输入框实现@
 + [lottie](http://airbnb.io/lottie/#/)，动画，AE及Bodymovin生成复杂动画的json，使用lottie-web包实现动画
 + [lottie-web](https://www.npmjs.com/package/lottie-web)，airbnb-lottie的npm包
++ [webpack-subresource-integrity](https://www.npmjs.com/package/webpack-subresource-integrity)，webpack实现SRI
 
 ## composer
 + [Guzzle](https://github.com/guzzle/guzzle)，http请求
