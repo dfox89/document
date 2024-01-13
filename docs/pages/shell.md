@@ -156,3 +156,17 @@ nvm install 14.21.3
 ## 删除指定版本
 nvm unstall 14.21.3
 ```
+
+## CentOS安装Nodejs
+```shell
+# 从https://nodejs.org/dist/下载安装包
+wget https://nodejs.org/dist/v16.20.2/node-v16.20.2-linux-x64.tar.xz
+# 解压包
+tar -xvf node-v16.20.2-linux-x64.tar.xz
+# 部署bin文件，类似windows快捷方式，/opt/node-v16.20.2-linux-x64/为解压目录
+ln -s /opt/node-v16.20.2-linux-x64/bin/node /usr/local/bin/node
+ln -s /opt/node-v16.20.2-linux-x64/bin/npm /usr/local/bin/npm
+# 测试，nodejs插件全局安装时，需要自行去创建关联，类似上一步
+node -v
+npm -v
+```
