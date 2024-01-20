@@ -117,6 +117,12 @@ npm config get prefix
 npm config list -l
 # 安装pnpm
 npm install -g pnpm
+# 设置淘宝镜像
+registry=https://registry.npm.taobao.org/
+# 设置sass_binary_site指向淘宝
+sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
+# 解决安装node-sass失败
+npm i node-sass --sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
 ```
 
 ## firewall-centos
@@ -169,4 +175,15 @@ ln -s /opt/node-v16.20.2-linux-x64/bin/npm /usr/local/bin/npm
 # 测试，nodejs插件全局安装时，需要自行去创建关联，类似上一步
 node -v
 npm -v
+```
+
+## 解决github pull/push超时
+```shell
+# 新建~/.ssh/config文件，添加以下
+Host github.com
+User git
+Hostname ssh.github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+Port 443
 ```
