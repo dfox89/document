@@ -4,6 +4,18 @@
 git config --global user.name "你的名称"
 git config --global user.email "你的邮箱"
 
+# 配置代理
+git config --global http.proxy socks5 127.0.0.1:7890
+git config --global https.proxy socks5 127.0.0.1:7890
+git config --global http.proxy 127.0.0.1:7890
+git config --global https.proxy 127.0.0.1:7890
+# 查看代理
+git config --global --get http.proxy
+git config --global --get https.proxy
+# 取消代理
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+
 # 查看git配置
 git config --list
 
