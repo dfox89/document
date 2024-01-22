@@ -157,8 +157,8 @@ firewall-cmd --zone=public --add-port=8080/tcp --permanent
 ## nvm
 > 打开安装目录下的settings.txt，添加以下内容，修改镜像源
 ```text
-node_mirror: https://npm.taobao.org/mirrors/node/
-npm_mirror: https://npm.taobao.org/mirrors/npm/
+node_mirror: https://npmmirror.com/mirrors/node/
+npm_mirror: https://npmmirror.com/mirrors/npm/
 ```
 ```shell
 ## 查看nvm版本
