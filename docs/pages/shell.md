@@ -130,9 +130,9 @@ npm config list -l
 # 安装pnpm
 npm install -g pnpm
 # 设置淘宝镜像
-registry=https://registry.npm.taobao.org/
+npm config set registry https://registry.npm.taobao.org/
 # 设置sass_binary_site指向淘宝
-sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
+npm config set sass_binary_site https://npm.taobao.org/mirrors/node-sass/
 # 解决安装node-sass失败
 npm i node-sass --sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
 ```
