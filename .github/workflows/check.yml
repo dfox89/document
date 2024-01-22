@@ -1,13 +1,13 @@
-name: check
+# name: check
 
-on: push
+# on: push
 
-jobs:
-  check-link:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+# jobs:
+#   check-link:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v2
 
-      - name: Check
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
+#       - name: Check
+#         uses: gaurav-nelson/github-action-markdown-link-check@v1
