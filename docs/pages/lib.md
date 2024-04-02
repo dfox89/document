@@ -51,6 +51,7 @@
 + [JSZip](https://www.npmjs.com/package/jszip)，js生产压缩包
 + [pdfjs](https://github.com/rkusa/pdfjs)，在线查看pdf
 + [disable-devtool](https://github.com/theajack/disable-devtool)，禁止打开浏览器的开发者工具
++ [crypto-js](https://www.npmjs.com/package/crypto-js)，加密解密
 
 ## css
 + [animate.css](https://github.com/animate-css/animate.css)，css动画
