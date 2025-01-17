@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: './',
+  base: '/',
   title: "我的归档",
   description: "网站，资源，问题等存档",
   lang: 'zh-Hans',
