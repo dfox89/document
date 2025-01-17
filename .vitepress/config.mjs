@@ -2,9 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/document/',
   title: "我的归档",
   description: "网站，资源，问题等存档",
-  appearance: true, // 切换主题
+  // 切换主题
+  appearance: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: {
