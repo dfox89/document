@@ -1,3 +1,5 @@
+# 常见问题
+
 ## CentOS安装Nodejs
 ```shell
 # 从https://nodejs.org/dist/下载安装包

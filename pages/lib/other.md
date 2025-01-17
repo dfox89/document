@@ -1,0 +1,16 @@
++ [electron-vue](https://github.com/SimulatedGREG/electron-vue)，跨平台桌面程序
++ [china_area_mysql](https://github.com/kakuilan/china_area_mysql)，中国5级行政区域mysql库
++ [oneinstack](https://github.com/oneinstack/oneinstack)，交互式安装，[文档](https://oneinstack.com/)
++ [icomoon](https://icomoon.io/app/#/select)，字体图标
++ [jquery](https://jquery.cuishifeng.cn/index.html)，jquery中文文档
++ [nvm](https://github.com/coreybutler/nvm-windows)，node版本管理工具
++ [superagent](https://github.com/visionmedia/superagent)，基于ajax的优化，用于获取远程网址html的内容
++ [cheerio](https://github.com/cheeriojs/cheerio)，通过jquery语法获取节点内容
++ [Puppeteer](https://github.com/puppeteer/puppeteer)，谷歌无头浏览器，模拟用户操作页面
++ [Jimp](https://github.com/oliver-moran/jimp)，图片处理（生成，裁剪，压缩，增加滤镜，文字等）
++ [stringify](https://github.com/lydell/json-stringify-pretty-compact)，格式化打印json
++ [tributejs](https://github.com/zurb/tribute)，输入框实现@
++ [lottie](http://airbnb.io/lottie/#/)，动画，AE及Bodymovin生成复杂动画的json，使用lottie-web包实现动画
++ [lottie-web](https://www.npmjs.com/package/lottie-web)，airbnb-lottie的npm包
++ [webpack-subresource-integrity](https://www.npmjs.com/package/webpack-subresource-integrity)，webpack实现SRI
++ [regex-vis](https://github.com/Bowen7/regex-vis)，可视化生成正则

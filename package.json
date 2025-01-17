@@ -1,13 +1,12 @@
 {
   "name": "document",
-  "version": "1.0.0",
   "private": true,
-  "author": "dfox <1253980580@qq.com>",
-  "license": "MIT",
   "scripts": {
-    "doc": "./node_modules/.bin/docsify serve docs"
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "docsify-cli": "^4.4.4"
+    "vitepress": "^1.5.0"
   }
 }
