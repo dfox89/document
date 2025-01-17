@@ -5,6 +5,7 @@ export default defineConfig({
   base: '/document/',
   title: "我的归档",
   description: "网站，资源，问题等存档",
+  lang: 'zh-Hans',
   // 切换主题
   appearance: true,
   themeConfig: {
