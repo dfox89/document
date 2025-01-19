@@ -30,6 +30,7 @@ export default defineConfig({
           { text: 'Git', link: '/pages/shell/git' },
           { text: 'npm', link: '/pages/shell/npm' },
           { text: 'nvm', link: '/pages/shell/nvm' },
+          { text: 'ollama', link: '/pages/shell/ollama' },
           { text: 'pm2', link: '/pages/shell/pm2' },
           { text: 'ssh', link: '/pages/shell/ssh' },
           { text: 'vite', link: '/pages/shell/vite' },
