@@ -1,5 +1,7 @@
 # ollama 常用命令
 
++ [ollama模型](https://ollama.com/search)
+
 ```shell
 # 列出模型
 ollama list
