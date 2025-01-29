@@ -55,6 +55,13 @@ export default defineConfig({
       { text: '常见问题', link: '/pages/question' },
       { text: '好用软件', link: '/pages/software' },
       { text: 'console.log', link: '/pages/console' },
+      {
+        text: '安装',
+        collapsed: false,
+        items: [
+          { text: 'Ollama使用GPU', link: '/pages/install/ollama-use-gpu' },
+        ]
+      },
     ],
   }
 })
