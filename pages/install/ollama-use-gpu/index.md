@@ -34,9 +34,9 @@ nvcc -V
 
 5. 验证，进入安装路径`C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\extras\demo_suite`
 
-> 输入`bandwithTest.exe`提示`Result = PASS`
+> 输入`bandwidthTest.exe`提示`Result = PASS`
 
-![bandwithTest](./img/ollama-7.png)
+![bandwidthTest](./img/ollama-7.png)
 
 > 输入`deviceQuery.exe`提示`Result = PASS`
 
