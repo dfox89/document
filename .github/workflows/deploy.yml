@@ -1,0 +1,32 @@
+# 自动打包上线
+name: deploy
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v3
+
+      - name: 设置node环境
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: 打包vite项目
+        run: |
+          npm i
+          npm run docs:build
+
+      - name: 通过ftp上传到服务器
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: './.vitepress/dist/'
+          server-dir: ${{ secrets.FTP_SERVER_DIR }}

@@ -6,6 +6,7 @@ export default defineConfig({
   title: "我的归档",
   description: "网站，资源，问题等存档",
   lang: 'zh-Hans',
+  srcExclude: ['**/README.md'],
   // 切换主题
   appearance: true,
   themeConfig: {
@@ -63,5 +64,8 @@ export default defineConfig({
         ]
       },
     ],
+    footer: {
+      message: '<a href="https://beian.miit.gov.cn" target="_blank">苏ICP备15040094号-2</a> | <a href="https://www.landui.com?refer_host=lanMjEwMDB1aQ==" target="_blank"><img src="https://www.landui.com/hosting/free_host_img" style="display:none;">蓝队云提供免费虚拟主机</a>',
+    },
   }
 })
