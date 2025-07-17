@@ -44,3 +44,5 @@
 + [pdfjs](https://github.com/rkusa/pdfjs)，在线查看pdf
 + [disable-devtool](https://github.com/theajack/disable-devtool)，禁止打开浏览器的开发者工具
 + [crypto-js](https://www.npmjs.com/package/crypto-js)，加密解密
++ [browser-image-compression](https://www.npmjs.com/package/browser-image-compression)，图片压缩
++ [jimp](https://www.npmjs.com/package/jimp)，图片压缩
