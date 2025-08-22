@@ -46,3 +46,5 @@
 + [crypto-js](https://www.npmjs.com/package/crypto-js)，加密解密
 + [browser-image-compression](https://www.npmjs.com/package/browser-image-compression)，图片压缩
 + [jimp](https://www.npmjs.com/package/jimp)，图片压缩
++ [pinyin-match](https://www.npmjs.com/package/pinyin-match)，能够使用拼音快速检索目标
++ [pinyin-pro](https://www.npmjs.com/package/pinyin-pro)，文字转拼音
