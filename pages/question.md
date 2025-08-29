@@ -34,3 +34,32 @@ PreferredAuthentications publickey
 IdentityFile ~/.ssh/id_rsa
 Port 443
 ```
+
+## 解决vue-cli2脚手架生成的项目，使用模板字符串解析错误问题
+
+> 办法一（推荐）
+```javascript
+// package.json升级以下包到此版本
+"devDependencies": {
+  "eslint": "^7.32.0",
+  "eslint-loader": "^2.2.1",
+  "eslint-plugin-vue": "^7.20.0",
+  "babel-eslint": "^10.1.0",
+}
+// .eslintrc.js内rules添加以下规则（若无此习惯可不添加，自用）
+rules: {
+  'vue/require-prop-type-constructor': 'off',
+  'vue/no-unused-components': 'off',
+  'vue/no-mutating-props': 'off'
+}
+```
+
+> 办法二
+
+```javascript
+// .eslintrc.js内rules添加以下规则
+rules: {
+  'template-curly-spacing': 'off', // 关闭空格校验
+  'indent': 'off'  // 关闭缩进规则
+}
+```
