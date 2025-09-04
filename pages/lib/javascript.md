@@ -48,3 +48,4 @@
 + [jimp](https://www.npmjs.com/package/jimp)，图片压缩
 + [pinyin-match](https://www.npmjs.com/package/pinyin-match)，能够使用拼音快速检索目标
 + [pinyin-pro](https://www.npmjs.com/package/pinyin-pro)，文字转拼音
++ [mitt](https://www.npmjs.com/package/mitt)，事件总线库，用来在不同模块之间传递消息
