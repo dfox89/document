@@ -67,5 +67,8 @@ export default defineConfig({
     footer: {
       message: '<a href="https://beian.miit.gov.cn" target="_blank">苏ICP备15040094号-2</a> | <a href="https://www.landui.com?refer_host=lanMjY0NDU0dWk=" target="_blank">蓝队云提供免费虚拟主机</a>',
     },
+    search: {
+      provider: 'local',
+    },
   }
 })
