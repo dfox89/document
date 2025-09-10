@@ -24,6 +24,14 @@ npm i node-sass --sass_binary_site=https://npmmirror.com/mirrors/node-sass
 C:\Users\用户名\AppData\Roaming\npm-cache\node-sass\8.0.0\win32-x64-83_binding.node
 ```
 
+## 解决安装ChromeDriver失败
+```shell
+# 方法1：从网址手动下载需要的版本（如：https://chromedriver.storage.googleapis.com/2.46/chromedriver_win32.zip），保存到缓存位置，并解压到当前目录
+C:\Users\用户名\AppData\Local\Temp\2.46\chromedriver\chromedriver_win32.zip
+# 此为解压出来的文件
+C:\Users\用户名\AppData\Local\Temp\2.46\chromedriver\chromedriver.exe
+```
+
 ## 解决github pull/push超时
 ```shell
 # 新建~/.ssh/config文件，添加以下
