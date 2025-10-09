@@ -15,5 +15,5 @@ nvm use 14.21.3
 ## 安装指定大版本号的最新版本
 nvm install 14.21.3
 ## 删除指定版本
-nvm unstall 14.21.3
+nvm uninstall 14.21.3
 ```
