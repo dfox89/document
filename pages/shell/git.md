@@ -63,4 +63,9 @@ git cherry-pick A..B
 git cherry-pick --continue
 # 放弃合并
 git rebase --abort
+
+# 导出Git commit记录
+# 2025-11-30 14:30:00 +0800 | 修复用户登录模块
+# 2025-11-29 10:15:00 +0800 | 优化数据可视化图表
+git log --pretty=format:"%ad | %s" --date=iso --encoding=gb2312 > git_commits.txt
 ```
