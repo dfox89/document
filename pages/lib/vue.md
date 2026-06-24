@@ -6,3 +6,4 @@
 + [u米-ui](https://github.com/u-leo/umy-ui)，vue2虚拟化表格，解决显示大量数据表格卡顿问题
 + [Surely Vue Table](https://github.com/surely-vue/table)，vue3虚拟化表格，解决显示大量数据表格卡顿问题，是商业化组件
 + [vue-kinesis](https://github.com/Aminerman/vue-kinesis)，vue视差
++ [vue-grid-layout-v3](https://www.npmjs.com/package/vue-grid-layout-v3)，vue3网格布局组件，支持网格拖拽缩放
