@@ -36,6 +36,7 @@ export default defineConfig({
           { text: 'ssh', link: '/pages/shell/ssh' },
           { text: 'vite', link: '/pages/shell/vite' },
           { text: 'vue-cli', link: '/pages/shell/vue-cli' },
+          { text: 'skills', link: '/pages/shell/skills' },
         ]
       },
       {
